@@ -1,0 +1,2 @@
+20220802	11:37:28	929ede48-3ab4-4c64-98d3-7a1841d0e7a8	Error: Not allowed by CORS
+20220802	17:30:27	f9328be2-dffc-44f4-a9b3-43917a38f9b7	TypeError: cookies.toString is not a function
